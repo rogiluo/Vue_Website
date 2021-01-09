@@ -1,8 +1,4 @@
-## Vue-Web
-
-使用 Vue.js 框架技術，來建立簡易的網站服務。
-
-## Description
+## 說明
 
 引用COREUI平台所提供之免費樣板(https://coreui.io)
 
